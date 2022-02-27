@@ -1,0 +1,17 @@
+body {
+  color: black;
+  background-color: brown;
+}
+h1 {
+  color: darkblue;
+}
+h2 {
+  color: darkcyan;
+}
+ul {
+  color: cyan;
+  background-color: black;
+}
+p {
+  color: gray;
+}
